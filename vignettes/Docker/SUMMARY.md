@@ -7,4 +7,5 @@
 * [Create a Docker](create_a_docker.md)
 * [Run a Docker](run_a_docker.md)
 * [Examples](examples.md)
+* [Info](info.md)
 
